@@ -1,0 +1,54 @@
+.bg-image {
+    background-image: url(../image/cam_wish.jpg);
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 600px;
+    border: 1px solid black;
+}
+
+.d-img {
+    height: 114px;
+    width: 114px;
+    margin-left: 103px;
+    margin-top: 9px;
+    border-radius: 100%;
+    border: 1px solid black;
+}
+
+.uname {
+    margin-left: 20px;
+    margin-top: 18px;
+    text-align: start;
+    font-weight: bold;
+    padding-top: 3px;
+    color: #000000;
+    border-radius: 7px;
+}
+
+.dotimage {
+    height: 114px;
+    width: 114px;
+    margin-left: 103px;
+    margin-top: 9px;
+    border: 1px solid black;
+    border-radius: 100%;
+    /* background-color: #251f1f; */
+}
+
+.imgtext {
+    text-align: center;
+    margin-top: 99px;
+}
+
+.disname {
+    border-radius: 7px;
+    margin-top: 118px;
+    /* background-color: #f5f0f0; */
+    height: 20px;
+    width: 184px;
+    text-align: center;
+    font-weight: bold;
+    /* padding-top: 3px; */
+    color: #000000;
+    margin-left: -36px;
+}
