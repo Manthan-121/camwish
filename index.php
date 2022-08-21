@@ -86,6 +86,7 @@ if (isset($_SESSION['error'])) {
         ?>
     </div>
 </div>
+
 <body>
     <script src="js/bootstrap.bundle.min.js"></script>
     <script src="js/html2canvas.min.js"></script>
